@@ -1,0 +1,13 @@
+blog:
+  build: .
+  volumes:
+    - "./_includes:/app/_includes"
+    - "./_layouts:/app/_layouts"
+    - "./_posts:/app/_posts"
+    - "./blog:/app/blog"
+    - "./css:/app/css"
+    - "./images:/app/images"
+    - "./jobs:/app/jobs"
+    - "./js:/app/js"
+  ports:
+    - "4000:4000"

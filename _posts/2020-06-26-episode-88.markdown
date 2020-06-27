@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Episode #88: Black Lives Matter"
+date:   2020-06-26 13:01:22 +0000
+categories: episode 
+---
+
+The Entropy League returns after an eight year hiatus to pledge solidarity with #blacklivesmatter! Each track features one or more black artists: Body Count, Powerflo, Brass Against, God Forbid and Zeal & Ardor.
+
+<iframe src="https://open.spotify.com/embed/playlist/09UcuKvxZiFUPHC9slG8eV" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<!-- more -->
