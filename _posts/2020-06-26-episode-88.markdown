@@ -5,8 +5,20 @@ date:   2020-06-26 13:01:22 +0000
 categories: episode 
 ---
 
-The Entropy League returns after an eight year hiatus to pledge solidarity with #blacklivesmatter! Each track features one or more black artists: Body Count, Powerflo, Brass Against, God Forbid and Zeal & Ardor.
+**The Entropy League** returns after an eight year hiatus to pledge solidarity with [**#blacklivesmatter**](https://blacklivesmatter.com/)! Each track features one or more black artists.
 
-<iframe src="https://open.spotify.com/embed/playlist/09UcuKvxZiFUPHC9slG8eV" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+[Spotify Link](https://open.spotify.com/playlist/09UcuKvxZiFUPHC9slG8eV)
+
+<iframe src="https://open.spotify.com/embed/playlist/09UcuKvxZiFUPHC9slG8eV" width="400" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <!-- more -->
+
+| Cover | Artist | Album | Title |
+| :---: | :--- | :--- |
+| <img src="https://coverartarchive.org/release-group/859b2644-2856-4d18-8d96-83865164e38d/front-500.jpg" width="150" height="150" /> | [**Body Count**](http://bodycountband.com/) | Carnivore | The Hate Is Real |
+| <img src="https://coverartarchive.org/release-group/75aaee7d-832a-4ad2-9e6f-b3d377ac64ae/front-500.jpg" width="150" height="150" /> | [**Powerflo**](https://en.wikipedia.org/wiki/Powerflo) | Bring That Shit Back | Get Up Stand Up |
+| <img src="https://coverartarchive.org/release/e481e174-a3de-407e-86dc-a7456ffc56b9/25903596195-500.jpg" width="150" height="150" /> | [**Brass Against**](https://brassagainst.com/) | Brass Against EP | Umbra |
+| <img src="https://coverartarchive.org/release-group/ad29e427-edc9-4e7f-ad8b-8ad6a5a96dc2/front-500.jpg" width="150" height="150" /> | [**God Forbid**](https://en.wikipedia.org/wiki/God_Forbid) | Equilibrium | Cornered |
+| <img src="https://coverartarchive.org/release-group/cab8cab3-424c-4085-a088-3408b0163320/front-500.jpg" width="150" height="150" /> | [**Soulfly**](http://www.soulfly.com/) | Live At Dynamo Open Air 1998 | Prejudice (live) |
+| <img src="https://coverartarchive.org/release-group/c4b52154-aee9-4d8a-af6e-20ec508e2b03/front.jpg" width="150" height="150" /> | [**Zeal & Ardor**](https://www.zealandardor.com/) | Stranger Fruit | You Ain't Coming Back |
+
