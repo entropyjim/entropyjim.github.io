@@ -5,6 +5,8 @@ date:   2020-06-26 13:01:22 +0000
 categories: episode 
 ---
 
+<meta property="og:title" content="Episode #88: Black Lives Matter" /><meta property="og:description" content="The Entropy League returns after an eight year hiatus to pledge solidarity with #blacklivesmatter" /><meta property="og:image" content="https://eleague.rocks/images/2020-06-26-episode-88-montage.jpg">
+
 <img src="/images/2020-06-26-episode-88-montage.jpg" title="Episode 88 Montage">
 
 **The Entropy League** returns after an eight year hiatus to pledge solidarity with [**#blacklivesmatter**](https://blacklivesmatter.com/)! Each track features one or more black artists.
