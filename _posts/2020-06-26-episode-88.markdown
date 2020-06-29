@@ -5,21 +5,24 @@ date:   2020-06-26 13:01:22 +0000
 categories: episode 
 ---
 
-<img src="/images/2020-06-26-episode-88-montage.jpg" title="Episode 88 Montage">
+{:refdef: style="text-align: center;"}
+![Episode 88]({{ site.baseimg }}/images/2020-06-26-episode-88-montage.jpg)
+{: refdef}
 
 **The Entropy League** returns after an eight year hiatus to pledge solidarity with [**#blacklivesmatter**](https://blacklivesmatter.com/)! Each track features one or more black artists.
 
 [Spotify Link](https://open.spotify.com/playlist/09UcuKvxZiFUPHC9slG8eV)
 
-<iframe src="https://open.spotify.com/embed/playlist/09UcuKvxZiFUPHC9slG8eV" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/09UcuKvxZiFUPHC9slG8eV" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 <!-- more -->
 
-| Artist | Album | Title |
-| :--- | :--- | :--- |
-| [**Body Count**](http://bodycountband.com/) | Carnivore | The Hate Is Real |
-| [**Powerflo**](https://en.wikipedia.org/wiki/Powerflo) | Bring That Shit Back | Get Up Stand Up |
-| [**Brass Against**](https://brassagainst.com/) | Brass Against EP | Umbra |
-| [**God Forbid**](https://en.wikipedia.org/wiki/God_Forbid) | Equilibrium | Cornered |
-| [**Soulfly**](http://www.soulfly.com/) | Live At Dynamo Open Air 1998 | Prejudice (live) |
-| [**Zeal & Ardor**](https://www.zealandardor.com/) | Stranger Fruit | You Ain't Coming Back |
+| | Artist | Album | Title |
+| :---: | :--- | :--- | :--- |
+| 1 | [**Body Count**](http://bodycountband.com/) | Carnivore | The Hate Is Real |
+| 2 | [**Powerflo**](https://en.wikipedia.org/wiki/Powerflo) | Bring That Shit Back | Get Up Stand Up |
+| 3 | [**Brass Against**](https://brassagainst.com/) | Brass Against EP | Umbra |
+| 4 | [**God Forbid**](https://en.wikipedia.org/wiki/God_Forbid) | Equilibrium | Cornered |
+| 5 | [**Soulfly**](http://www.soulfly.com/) | Live At Dynamo Open Air 1998 | Prejudice (live) |
+| 6 | [**Zeal & Ardor**](https://www.zealandardor.com/) | Stranger Fruit | You Ain't Coming Back |
 
