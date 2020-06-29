@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A metal music compilation series
 excerpt_separator: <!-- more -->
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://entropyleague.rocks" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://eleague.rocks" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: entropyjim
 facebook_username: entropyleague
 #github_username:  jekyll
