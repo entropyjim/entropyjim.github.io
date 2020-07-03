@@ -11,11 +11,12 @@ categories: episode
 
 **The Entropy League** returns after an eight year hiatus to pledge solidarity with [**#blacklivesmatter**](https://blacklivesmatter.com/)! Each track features one or more black artists.
 
-[Spotify Link](https://open.spotify.com/playlist/09UcuKvxZiFUPHC9slG8eV)
-
-<iframe src="https://open.spotify.com/embed/playlist/09UcuKvxZiFUPHC9slG8eV" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+[![Spotify Link](https://img.shields.io/badge/The%20Entropy%20League-Episode%2088-lightgrey?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/09UcuKvxZiFUPHC9slG8eV)
 
 <!-- more -->
+
+<p></p>
+<p align="center"><iframe src="https://open.spotify.com/embed/playlist/09UcuKvxZiFUPHC9slG8eV" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></p>
 
 | | Artist | Album | Title |
 | :---: | :--- | :--- | :--- |
