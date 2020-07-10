@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Episode #89: Soviet Metal"
+date:   2020-07-10 01:00:00 +0000
+categories: episode
+---
+
+{:refdef: style="text-align: center;"}
+![Episode 89]({{ site.baseimg }}/images/2020-07-10-episode-89-montage.jpg)
+{: refdef}
+
+Привет! Episode 89 of **The Entropy League** takes you on a tour of folk/pagan/death metal bands from Russia and the former Soviet Union!
+
+[![Spotify Link](https://img.shields.io/badge/The%20Entropy%20League-Episode%2089-lightgrey?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/2HL8pvXjjeQx0cL5T58BOp)
+
+<!-- more -->
+
+First we get into some [**Zmey Gorynich**](https://zmeygorynich.bandcamp.com/), a folk/deathcore band from Moscow, with the title track off **Чёртовы пляски** just released this year. Next up is [**Дрыгва**](https://drygva.bandcamp.com/) (wrtitten Drygva in english), a pagan/folk/death metal band from Belarus, with another new release from this year, Брацтва (means "brotherhood") off **Вайдэлот**.
+
+<p></p>
+
+[**Drops of Heart**](https://dropsofheart.bandcamp.com/) does a melodic death metal version of a traditional Russian folk metal song, Oy, Moroz, Moroz. Next up, two "mashup" tracks, starting with [**Aura**](https://aurapower.bandcamp.com/) from Moscow mixing a Russian military song with Children of Bodom's "Downfall"!
+
+<p></p>
+
+[**Свентояр**](https://aurapower.bandcamp.com/) ("Sventoyar" in english) from Ukraine with a track called Goatsbusters (no, not "Ghostbusters"). Wrapping up this episode is another band from Ukraine, [**SvaDaRa**](https://svadara.bandcamp.com/) with Сидить заєць на вербі off the album **Орнамент** ("Ornament" in english).
+
+<p></p>
+
+<p align="center"><iframe src="https://open.spotify.com/embed/playlist/2HL8pvXjjeQx0cL5T58BOp" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></p>
+
+[![Twitter Link](https://img.shields.io/twitter/follow/entropyjim?style=social)](https://twitter.com/entropyjim)
+
