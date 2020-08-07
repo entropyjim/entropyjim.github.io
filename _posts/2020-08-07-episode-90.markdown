@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Episode #89: '80s Movie Soundtrack Covers"
+title:  "Episode #90: '80s Movie Soundtrack Covers"
 date: 2020-08-07 01:00:00 +0000
 categories: episode
 image:
