@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Episode #89: '80s Movie Soundtrack Covers"
+date: 2020-08-07 01:00:00 +0000
+categories: episode
+image:
+  path: /images/2020-08-07-episode-90-montage.jpg
+---
+
+{:refdef: style="text-align: center;"}
+![Episode 90]({{ site.baseimg }}/images/2020-08-07-episode-90-montage.jpg)
+{: refdef}
+
+Episode 90 of **The Entropy League** features all metal covers of classis movies from the 80s!
+
+[![Spotify Link](https://img.shields.io/badge/The%20Entropy%20League-Episode%2090-lightgrey?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/0Qqb88uLk3K2EAmYXYxtXd)
+
+<!-- more -->
+
+Opening with a cover of Survivor's "Burning Heart" by [**Eshtadur**](https://eshtadur.bandcamp.com/), featuring guest vocals from Björn "Speed" Strid (Soilwork) and guitar solos from Per Nilsson (Scar Symmetry). Watch the video [here](https://www.youtube.com/watch?v=gJZvVGgon8g). The original song appeared on the [Rocky IV soundtrack](https://en.wikipedia.org/wiki/Rocky_IV_(soundtrack)) which came out in 1985. Next we have [**Disarmonia Mundi**](http://www.disarmoniamundi.com/) covering the theme from [My Neighbor Totoro](https://en.wikipedia.org/wiki/My_Neighbor_Totoro) which came out in 1988. Find that on the [Princess Ghibli](http://www.nausicaa.net/wiki/Princess_Ghibli_-_Imaginary_Flying_Machines) album (and check out its follow-up [Princess Ghibli II](http://www.nausicaa.net/wiki/Princess_Ghibli_II_-_Imaginary_Flying_Machines)) featuring all metal covers of songs from Studio Ghibli movies.
+
+<p></p>
+
+Next up is a cover of the [Terminator 2: Judgment Day](https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day) theme from [**Austrian Death Machine**](https://en.wikipedia.org/wiki/Austrian_Death_Machine) off the [Double Brutal](https://en.wikipedia.org/wiki/Double_Brutal) album. Yes, I know Terminator 2 came out in 1991, sue me. A cover of [The Neverending Story](https://en.wikipedia.org/wiki/The_NeverEnding_Story_(film)) comes next, from [**Irminsul**](https://irminsulgbg.bandcamp.com/) off the album Fäder. 
+
+<p></p>
+
+If you had nightmares of the "[red bull](https://youtu.be/g4BfU90n6T0?t=10)" growing up then you certainly remember [The Last Unicorn](https://en.wikipedia.org/wiki/The_Last_Unicorn_(film)). The theme song never sounded as epic as this cover from [**Munarheim**](https://munarheim.bandcamp.com/) off their Nacht und Stürme werden Licht album. Capping off this collection is a cover of Queen's "Princes of the Universe" from [The Highlander](https://en.wikipedia.org/wiki/Highlander_(film)) which came out in 1986. [The Protomen](https://theprotomen.bandcamp.com/) are an incredible (admittedly, non-metal) band from Nashville, Tennessee. Probably one of the few bands capable of attempting a cover of that song...
+
+<p></p>
+
+<iframe src="https://open.spotify.com/embed/playlist/0Qqb88uLk3K2EAmYXYxtXd" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+[![Twitter Link](https://img.shields.io/twitter/follow/entropyjim?style=social)](https://twitter.com/entropyjim)
+
